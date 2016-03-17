@@ -1,5 +1,7 @@
 # RecyclerView
 
+Recycler View - A better replacement for GridView , ListViews in a cooler and smoother way lets use this 
+
 "RecyclerView is more advanced and flexible and efficient version of ListView.
 RecyclerView ViewGroup is an container for larger data set of views that can be recycled and scrolled very efficiently.
 RecyclerView can be used for larger datasets to be rendered on the UI like a list. RecyclerView provides maximum 
