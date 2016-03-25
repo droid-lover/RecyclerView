@@ -11,7 +11,7 @@ flexibility to design different kind of views."
 i am explaining the working f a recycler view with card views here in this code thanks!
 
 ----------------------------------
-Started Working With Recycler View 
+Start Working With Recycler View 
 ----------------------------------
 
 First of all create a new project in android studio 
