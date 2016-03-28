@@ -28,8 +28,8 @@ import example.com.recyclerviewdemo.R;
 public class
         StaticRecyclerViewActivity extends AppCompatActivity {
 
-    @Bind(R.id.toolbar)
-    Toolbar toolbar;
+    @Bind(R.id.staticRecyclerViewActivitytTolbar)
+    Toolbar staticRecyclerViewActivitytTolbar;
 
     @Bind(R.id.my_recycler_view)
     RecyclerView myRecyclerView;
@@ -46,8 +46,7 @@ public class
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_static_recycler_view);
         ButterKnife.bind(this);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        setSupportActionBar(staticRecyclerViewActivitytTolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {

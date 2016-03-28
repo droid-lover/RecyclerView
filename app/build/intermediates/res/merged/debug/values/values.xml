@@ -302,6 +302,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_activity_dynamic_recycler_view">DynamicRecyclerViewActivity</string>
     <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_main">MainActivity</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>

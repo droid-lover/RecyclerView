@@ -164,6 +164,10 @@
         "source": "D:\\Android Studio Projects\\git apps\\RecyclerViewDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
+        "merged": "D:\\Android Studio Projects\\git apps\\RecyclerViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_static_recycler_view.xml",
+        "source": "D:\\Android Studio Projects\\git apps\\RecyclerViewDemo\\app\\src\\main\\res\\layout\\content_static_recycler_view.xml"
+    },
+    {
         "merged": "D:\\Android Studio Projects\\git apps\\RecyclerViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "D:\\Android Studio Projects\\git apps\\RecyclerViewDemo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },

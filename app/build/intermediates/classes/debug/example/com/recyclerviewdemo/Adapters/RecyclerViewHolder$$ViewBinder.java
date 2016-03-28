@@ -8,12 +8,12 @@ import butterknife.ButterKnife.ViewBinder;
 public class RecyclerViewHolder$$ViewBinder<T extends example.com.recyclerviewdemo.Adapters.RecyclerViewHolder> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492989, "field 'tv1'");
-    target.tv1 = finder.castView(view, 2131492989, "field 'tv1'");
-    view = finder.findRequiredView(source, 2131492990, "field 'tv2'");
-    target.tv2 = finder.castView(view, 2131492990, "field 'tv2'");
-    view = finder.findRequiredView(source, 2131492988, "field 'imageView'");
-    target.imageView = finder.castView(view, 2131492988, "field 'imageView'");
+    view = finder.findRequiredView(source, 2131492992, "field 'tv1'");
+    target.tv1 = finder.castView(view, 2131492992, "field 'tv1'");
+    view = finder.findRequiredView(source, 2131492993, "field 'tv2'");
+    target.tv2 = finder.castView(view, 2131492993, "field 'tv2'");
+    view = finder.findRequiredView(source, 2131492991, "field 'imageView'");
+    target.imageView = finder.castView(view, 2131492991, "field 'imageView'");
   }
 
   @Override public void unbind(T target) {

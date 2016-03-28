@@ -10,10 +10,10 @@ public class DynamicRecyclerViewActivity$$ViewBinder<T extends example.com.recyc
     View view;
     view = finder.findRequiredView(source, 2131492969, "field 'dynamicActivityToolbar'");
     target.dynamicActivityToolbar = finder.castView(view, 2131492969, "field 'dynamicActivityToolbar'");
-    view = finder.findRequiredView(source, 2131492976, "field 'dynamicRecyclerView'");
-    target.dynamicRecyclerView = finder.castView(view, 2131492976, "field 'dynamicRecyclerView'");
-    view = finder.findRequiredView(source, 2131492973, "field 'decreaseFab' and method 'decreaseFabClicked'");
-    target.decreaseFab = finder.castView(view, 2131492973, "field 'decreaseFab'");
+    view = finder.findRequiredView(source, 2131492977, "field 'dynamicRecyclerView'");
+    target.dynamicRecyclerView = finder.castView(view, 2131492977, "field 'dynamicRecyclerView'");
+    view = finder.findRequiredView(source, 2131492974, "field 'decreaseFab' and method 'decreaseFabClicked'");
+    target.decreaseFab = finder.castView(view, 2131492974, "field 'decreaseFab'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -22,8 +22,8 @@ public class DynamicRecyclerViewActivity$$ViewBinder<T extends example.com.recyc
           target.decreaseFabClicked();
         }
       });
-    view = finder.findRequiredView(source, 2131492975, "field 'increaseFab' and method 'increaseFabClicked'");
-    target.increaseFab = finder.castView(view, 2131492975, "field 'increaseFab'");
+    view = finder.findRequiredView(source, 2131492976, "field 'increaseFab' and method 'increaseFabClicked'");
+    target.increaseFab = finder.castView(view, 2131492976, "field 'increaseFab'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -32,8 +32,8 @@ public class DynamicRecyclerViewActivity$$ViewBinder<T extends example.com.recyc
           target.increaseFabClicked();
         }
       });
-    view = finder.findRequiredView(source, 2131492974, "field 'countEdittext'");
-    target.countEdittext = finder.castView(view, 2131492974, "field 'countEdittext'");
+    view = finder.findRequiredView(source, 2131492975, "field 'countEdittext'");
+    target.countEdittext = finder.castView(view, 2131492975, "field 'countEdittext'");
   }
 
   @Override public void unbind(T target) {
